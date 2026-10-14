@@ -1,0 +1,13 @@
+project_id = "photo-booth-tami"
+
+[functions.device-api]
+# Auth.getUser validates the user JWT in the handler, including asymmetric keys.
+# The dashboard gateway check accepts only legacy-secret JWTs on this project.
+verify_jwt = false
+entrypoint = "./functions/device-api/index.ts"
+import_map = "./functions/deno.json"
+
+[functions.guest-gallery]
+verify_jwt = false
+entrypoint = "./functions/guest-gallery/index.ts"
+import_map = "./functions/deno.json"

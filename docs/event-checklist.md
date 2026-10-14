@@ -1,0 +1,23 @@
+# Preparación del evento
+
+- [ ] Definir fecha real, nombre y paleta; revisar una tira de prueba.
+- [ ] Usar el mismo perfil normal de Chrome/Edge y el mismo puerto durante todo el evento.
+- [ ] Preparar build y servidor local antes de desconectar Internet.
+- [ ] Probar webcam real, iluminación, encuadre, resolución y orientación.
+- [ ] Confirmar permiso de cámara y selección del dispositivo correcto.
+- [ ] Desactivar suspensión automática de la laptop y conectar alimentación.
+- [ ] Probar pantalla completa y controles táctiles.
+- [ ] Ajustar intervalo y tiempo de retorno.
+- [ ] Solicitar persistencia, verificar espacio libre y preparar respaldo externo.
+- [ ] Capturar cuatro fotos; repetir y confirmar; descargar JPEG y ZIP.
+- [ ] Confirmar que la siguiente sesión no muestra las fotos anteriores.
+- [ ] Recargar un borrador y recuperarlo desde sesiones locales.
+- [ ] Desconectar Internet con servidor local activo y repetir el flujo.
+- [ ] Conectar la cuenta exclusiva de la cabina y verificar cinco archivos remotos en una sesión de prueba.
+- [ ] Cortar Internet durante una subida, recargar y comprobar recuperación sin duplicados.
+- [ ] Verificar bucket privado, orígenes CORS y revocación del dispositivo.
+- [ ] Revisar límites de sesiones, espacio y costos de Supabase; definir retención con el organizador.
+- [ ] No usar QR ni prometer galería a invitados: se implementará en Fase 3.
+- [ ] Restringir el acceso físico al panel local del operador.
+- [ ] Exportar y verificar respaldos periódicos; al cierre copiar a otro medio.
+- [ ] Si se imprimirá: definir papel, escala y sangrado y hacer una prueba física.

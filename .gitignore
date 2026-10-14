@@ -1,0 +1,10 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+.env.local
+.env.*.local
+*.tsbuildinfo
+supabase/.temp/
+supabase/.branches/
+supabase/.env
